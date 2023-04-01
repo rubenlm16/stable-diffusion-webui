@@ -3,6 +3,6 @@
 set PYTHON=
 set GIT=
 set VENV_DIR=
-set COMMANDLINE_ARGS=--share --disable-safe-unpickle --no-half-vae --xformers --reinstall-xformers --enable-insecure-extension-access
+set COMMANDLINE_ARGS=--api --share --disable-safe-unpickle --no-half-vae --xformers --reinstall-xformers --enable-insecure-extension-access
 
 call webui.bat
